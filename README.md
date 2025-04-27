@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Steps to Run the Application
 
@@ -75,3 +76,7 @@ From the admin page, you can manage almost all things.
 
 ## Thank You
 
+=======
+# Real-Estate
+Real Estate Application This project is a full-stack real estate web application built using Django for the backend and React for the frontend. The application allows users to view available properties, search listings by various criteria, and interact with real estate agents
+>>>>>>> 8224fcd6b81712b49136d63641ff0aa532cba502
