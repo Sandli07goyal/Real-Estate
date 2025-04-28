@@ -4,8 +4,6 @@
 
 Pull the repository into your device and run it as you used to run Django Application.
 
-$ git clone https://github.com/dhruvsethi708/Real-Estate.git
-
 
 You need to install 'requirements.txt' in your python virtual environment.
 
